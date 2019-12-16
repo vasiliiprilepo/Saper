@@ -1,0 +1,1 @@
+You may use your own images in order to images be shown in the game. Here I use my local imaged and they won't be shown.
